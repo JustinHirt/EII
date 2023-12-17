@@ -1,23 +1,23 @@
-def Task1(a, b):
+def Aufgabe1(a, b):
     return not a and not b
 
-def Task2(a, c):
+def Aufgabe2(a, c):
     return a or not c
 
-def Task3():
+def Aufgabe3():
     return False
 
-def Task4(a):
+def Aufgabe4(a):
     return a
 
-def Task5(a ,b):
+def Aufgabe5(a ,b):
     return a and not b
 
-def Task6(a, c):
+def Aufgabe6(a, c):
     return a and c
 
-def Task7(a, b, c):
+def Aufgabe7(a, b, c):
     return not (a and b) or not c
 
-def Task8(a, b, c):
+def Aufgabe8(a, b, c):
     return (a and b) and not c
