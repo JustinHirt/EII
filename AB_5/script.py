@@ -1,4 +1,4 @@
-def Aufgabe1(a, b):
+def Aufgabe1(b, a):
     return not a and not b
 
 def Aufgabe2(a, c):
