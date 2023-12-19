@@ -21,3 +21,4 @@ def Aufgabe7(a, b, c):
 
 def Aufgabe8(a, b, c):
     return (a and b) and not c
+#Hey Justin
