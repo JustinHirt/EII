@@ -1,25 +1,29 @@
 def Aufgabe1(b, a):
     return not a and not b
 
-def Aufgabe2(a, c):
+def Task2(a, c):
     return a or not c
 
-def Aufgabe3():
+def Task3():
     return False
 
-def Aufgabe4(a):
+def Task4(a):
     return a
 
-def Aufgabe5(a ,b):
+def Task5(a ,b):
     return a and not b
 
-def Aufgabe6(a, c):
+def Task6(a, c):
     return a and c
 
-def Aufgabe7(a, b, c):
+def Task7(a, b, c):
     return not (a and b) or not c
 
+<<<<<<< HEAD
+def Task8(a, b, c):
+=======
 def Aufgabe8(a, b, c):
+>>>>>>> 7953821624dcda661d326e6cc10b162685b19d4f
     return (a and b) and not c
 #Hey Justin
 printf("Nils Konflikterzeugung")
