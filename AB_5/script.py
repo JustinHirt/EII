@@ -23,3 +23,4 @@ def Aufgabe8(a, b, c):
     return (a and b) and not c
 #Hey Nils
 #tiruriru
+yx
