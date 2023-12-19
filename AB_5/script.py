@@ -21,8 +21,5 @@ def Aufgabe7(a, b, c):
 
 def Aufgabe8(a, b, c):
     return (a and b) and not c
-<<<<<<< ae6fa4e0f7e607fd5d05bc544fa1e98be70edf06
 #Hey Nils
-=======
-#Hey Nilsab
->>>>>>> Update script.py
+#tiruriru
