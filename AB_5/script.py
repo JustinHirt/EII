@@ -19,6 +19,10 @@ def Task6(a, c):
 def Task7(a, b, c):
     return not (a and b) or not c
 
+<<<<<<< HEAD
 def Task8(a, b, c):
+=======
+def Aufgabe8(a, b, c):
+>>>>>>> 7953821624dcda661d326e6cc10b162685b19d4f
     return (a and b) and not c
 #Hey Justin
